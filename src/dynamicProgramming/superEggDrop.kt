@@ -1,3 +1,5 @@
+package dynamicProgramming
+
 fun superEggDrop(K: Int, N: Int, dp: Array<Array<Int?>> = Array<Array<Int?>>(K + 1) { arrayOfNulls(N + 1) }): Int {
     if (K == 1 || N in 0..1) return N
     if (dp[K][N] != null) return dp[K][N]!!
