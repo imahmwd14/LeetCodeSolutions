@@ -3,3 +3,10 @@ Here I will have a record of all of the problems that I practice doing on LeetCo
 ---
 صلى الله على سيدنا محمد وآله وصحبه وسلم
 والحمد لله رب العالمين
+
+## list of problems whose solution can be found in this repository (The list is not comprehensive!)
+
+#### Hard Problems:
+1. https://leetcode.com/problems/unique-paths-iii (DFS problem)
+
+ 
